@@ -13,6 +13,12 @@ Credits to: [Platane/snk](https://github.com/Platane/snk)
 - 🌱 I’m currently learning: Any low-level programming stuff (specializing in Graphics Programming, Game Engine Programming, Game Development)
 - 📫 How to reach me: [linkedin.com/in/matthew-yeow/](https://www.linkedin.com/in/matthew-yeow/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=cyan-wings&theme=catppuccin-mocha)](https://github.com/cyan-wings)
+
+[![cyan-wings' GitHub stats](https://github-readme-stats.vercel.app/api?username=cyan-wings&show_icons=true&theme=catppuccin_mocha)](https://github.com/cyan-wings)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyan-wings&theme=catppuccin_mocha)](https://github.com/cyan-wings)
+
 <!--
 **cyan-wings/cyan-wings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
