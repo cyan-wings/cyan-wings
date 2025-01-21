@@ -2,7 +2,7 @@
 
 I will start with something motivational for myself.
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyan-wings/cyan-wings/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyan-wings/cyan-wings/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyan-wings/cyan-wings/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/cyan-wings/cyan-wings/output/github-contribution-grid-snake.svg" />
 </picture>
