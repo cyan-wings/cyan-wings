@@ -7,7 +7,8 @@ I will start with something motivational for myself.
   <img alt="github-snake" src="https://raw.githubusercontent.com/cyan-wings/cyan-wings/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </picture>
 
-Credits to: [Platane/snk](https://github.com/Platane/snk)
+###### _Credits to: [Platane/snk](https://github.com/Platane/snk)_
+<br/>
 
 - 🔭 I’m currently working on a Mini Ray Tracer on C/C++ (possibly using Vulkan)
 - 🌱 I’m currently learning: Any low-level programming stuff (specializing in Graphics Programming, Game Engine Programming, Game Development)
@@ -16,14 +17,17 @@ Credits to: [Platane/snk](https://github.com/Platane/snk)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cyan-wings&theme=catppuccin-mocha)](https://github.com/cyan-wings)
 
 ###### _Credits to: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+<br/>
 
 [![cyan-wings' GitHub stats](https://github-readme-stats.vercel.app/api?username=cyan-wings&show_icons=true&theme=catppuccin_mocha)](https://github.com/cyan-wings)
 
-Credits to: [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+###### _Credits to: [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)_
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyan-wings&theme=catppuccin_mocha)](https://github.com/cyan-wings)
 
-Credits to: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+###### _Credits to: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+<br/>
 
 <!--
 **cyan-wings/cyan-wings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
