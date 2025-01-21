@@ -1,2 +1,21 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.2.0
+name: Generate Snake Game from GitHub Contributions
+
+on:
+  schedule:
+    # Trigger every day at 6 AM
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allows manual triggering of the action
+
+jobs:
+  generate-snake-game:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game
+        uses: platane/snk@v2
+        with:
+          github_user: <your-github-username>  # Replace with your GitHub username
+          gif_name: snake-game  # Name of the generated snake GIF
