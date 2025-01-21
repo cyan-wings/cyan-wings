@@ -15,7 +15,7 @@ Credits to: [Platane/snk](https://github.com/Platane/snk)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cyan-wings&theme=catppuccin-mocha)](https://github.com/cyan-wings)
 
-<small>_Credits to: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_</small>
+<font size="5">_Credits to: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_<font size="5">
 
 [![cyan-wings' GitHub stats](https://github-readme-stats.vercel.app/api?username=cyan-wings&show_icons=true&theme=catppuccin_mocha)](https://github.com/cyan-wings)
 
