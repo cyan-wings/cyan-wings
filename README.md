@@ -18,8 +18,6 @@ I will start with something motivational for myself.
 
 [![cyan-wings' GitHub stats](https://github-readme-stats.vercel.app/api?username=cyan-wings&show_icons=true&theme=catppuccin_mocha)](https://github.com/cyan-wings)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyan-wings&theme=catppuccin_mocha&exclude_repo=reusability-assessment,Reuse-Tool,software-reusability-ghforks)](https://github.com/cyan-wings)
-
 ###### _Credits to: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <!--
