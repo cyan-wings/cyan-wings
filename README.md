@@ -16,18 +16,11 @@ I will start with something motivational for myself.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cyan-wings&theme=catppuccin-mocha)](https://github.com/cyan-wings)
 
-###### _Credits to: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
-<br/>
-
 [![cyan-wings' GitHub stats](https://github-readme-stats.vercel.app/api?username=cyan-wings&show_icons=true&theme=catppuccin_mocha)](https://github.com/cyan-wings)
 
-###### _Credits to: [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)_
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyan-wings&theme=catppuccin_mocha&exclude_repo=Reuse-Tool,reusability-assessment)](https://github.com/cyan-wings)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyan-wings&theme=catppuccin_mocha&exclude_repo=reusability-assessment,Reuse-Tool,software-reusability-ghforks)](https://github.com/cyan-wings)
 
 ###### _Credits to: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
-<br/>
 
 <!--
 **cyan-wings/cyan-wings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
