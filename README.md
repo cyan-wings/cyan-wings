@@ -24,7 +24,7 @@ I will start with something motivational for myself.
 ###### _Credits to: [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)_
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyan-wings&theme=catppuccin_mocha&exclude_repo=Reuse-Tool&exclude_repo=reusability-assessment)](https://github.com/cyan-wings)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyan-wings&theme=catppuccin_mocha&exclude_repo=Reuse-Tool,reusability-assessment)](https://github.com/cyan-wings)
 
 ###### _Credits to: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 <br/>
